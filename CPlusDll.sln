@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CPlusDll", "CPlusDll\CPlusDll.vcxproj", "{8560EBB6-3761-49C9-9DE7-94A14F804B4C}"
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Image", "Image\Image.vcxproj", "{91D86687-F293-48CE-B37C-C78F0F875FA9}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ImageWrapper", "ImageWrapper\ImageWrapper.vcxproj", "{CF28C7A0-A388-4723-81A9-412F3A91D6AA}"
@@ -25,16 +23,6 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{8560EBB6-3761-49C9-9DE7-94A14F804B4C}.Debug|Any CPU.ActiveCfg = Debug|Win32
-		{8560EBB6-3761-49C9-9DE7-94A14F804B4C}.Debug|x64.ActiveCfg = Debug|x64
-		{8560EBB6-3761-49C9-9DE7-94A14F804B4C}.Debug|x64.Build.0 = Debug|x64
-		{8560EBB6-3761-49C9-9DE7-94A14F804B4C}.Debug|x86.ActiveCfg = Debug|Win32
-		{8560EBB6-3761-49C9-9DE7-94A14F804B4C}.Debug|x86.Build.0 = Debug|Win32
-		{8560EBB6-3761-49C9-9DE7-94A14F804B4C}.Release|Any CPU.ActiveCfg = Release|Win32
-		{8560EBB6-3761-49C9-9DE7-94A14F804B4C}.Release|x64.ActiveCfg = Release|x64
-		{8560EBB6-3761-49C9-9DE7-94A14F804B4C}.Release|x64.Build.0 = Release|x64
-		{8560EBB6-3761-49C9-9DE7-94A14F804B4C}.Release|x86.ActiveCfg = Release|Win32
-		{8560EBB6-3761-49C9-9DE7-94A14F804B4C}.Release|x86.Build.0 = Release|Win32
 		{91D86687-F293-48CE-B37C-C78F0F875FA9}.Debug|Any CPU.ActiveCfg = Debug|Win32
 		{91D86687-F293-48CE-B37C-C78F0F875FA9}.Debug|x64.ActiveCfg = Debug|x64
 		{91D86687-F293-48CE-B37C-C78F0F875FA9}.Debug|x64.Build.0 = Debug|x64
