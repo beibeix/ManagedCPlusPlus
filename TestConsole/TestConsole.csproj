@@ -36,6 +36,12 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\Debug\CameraWrapper.dll</HintPath>
     </Reference>
+    <Reference Include="ExceptionWrapper">
+      <HintPath>..\Debug\ExceptionWrapper.dll</HintPath>
+    </Reference>
+    <Reference Include="Image">
+      <HintPath>..\Debug\Image.dll</HintPath>
+    </Reference>
     <Reference Include="ImageAndCamera">
       <HintPath>..\Debug\ImageAndCamera.dll</HintPath>
     </Reference>

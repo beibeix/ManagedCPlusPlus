@@ -12,3 +12,13 @@ D:\Dev\ManagedCPlusPlus\TestConsole\obj\Debug\TestConsole.exe
 D:\Dev\ManagedCPlusPlus\TestConsole\obj\Debug\TestConsole.pdb
 D:\Dev\ManagedCPlusPlus\TestConsole\bin\Debug\ImageAndCamera.dll
 D:\Dev\ManagedCPlusPlus\TestConsole\bin\Debug\ImageAndCamera.pdb
+D:\Dev\ManagedCPlusPlus\ManagedCPlusPlus\TestConsole\bin\Debug\TestConsole.exe.config
+D:\Dev\ManagedCPlusPlus\ManagedCPlusPlus\TestConsole\bin\Debug\TestConsole.exe
+D:\Dev\ManagedCPlusPlus\ManagedCPlusPlus\TestConsole\bin\Debug\TestConsole.pdb
+D:\Dev\ManagedCPlusPlus\ManagedCPlusPlus\TestConsole\obj\Debug\TestConsole.csprojAssemblyReference.cache
+D:\Dev\ManagedCPlusPlus\ManagedCPlusPlus\TestConsole\obj\Debug\TestConsole.csproj.CoreCompileInputs.cache
+D:\Dev\ManagedCPlusPlus\ManagedCPlusPlus\TestConsole\obj\Debug\TestConsole.csproj.CopyComplete
+D:\Dev\ManagedCPlusPlus\ManagedCPlusPlus\TestConsole\obj\Debug\TestConsole.exe
+D:\Dev\ManagedCPlusPlus\ManagedCPlusPlus\TestConsole\obj\Debug\TestConsole.pdb
+D:\Dev\ManagedCPlusPlus\ManagedCPlusPlus\TestConsole\bin\Debug\ExceptionWrapper.dll
+D:\Dev\ManagedCPlusPlus\ManagedCPlusPlus\TestConsole\bin\Debug\ExceptionWrapper.pdb
